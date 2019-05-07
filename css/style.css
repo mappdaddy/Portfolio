@@ -589,7 +589,7 @@ p {
 [ 06 - Start Counter ]
 -----------------------------------------------------------------*/
 .counter {
-  background-image: url("http://via.placeholder.com/1920x1080");
+  background-image: ;
   overflow: hidden;
   padding: 80px 0;
 }
@@ -712,7 +712,7 @@ p {
 [ 08 - Start Testimonials ]
 -----------------------------------------------------------------*/
 .testimonials {
-  background-image: url("http://via.placeholder.com/1920x1080");
+  background-image: ;
   overflow: hidden;
 }
 .testimonials .section-head h3 {
