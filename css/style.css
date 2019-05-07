@@ -434,7 +434,7 @@ p {
 [ 03 - Start Header ]
 -----------------------------------------------------------------*/
 .header {
-  background-image: url("http://via.placeholder.com/1920x1080");
+  background-image: "images\portf.jpg";
   overflow: hidden;
   height: 100vh;
 }
